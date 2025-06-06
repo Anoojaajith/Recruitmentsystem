@@ -14,11 +14,13 @@ Key Functionalities:
 •	Registration & Login:
   -	New users must register with personal details and credentials.
   -	A login system separates Admin and User roles.
+    
 •	Admin Functionalities:
   -	View candidate profiles
   -	Filter and verify candidates
   -	View updated candidate data
   -	View feedback from users
+    
 •	User (Employee) Functionalities:
   -	Apply for jobs based on qualifications
   -	Update profile (add/edit qualifications, experience, etc.)
